@@ -1,0 +1,27 @@
+{
+  "name": "aloha-world",
+  "version": "0.0.6",
+  "description": "> TODO: description",
+  "author": "alac0m <alac0m@users.noreply.github.com>",
+  "homepage": "https://github.com/alac0m/Lerna/tree/main/packages/aloha-world#readme",
+  "license": "ISC",
+  "main": "lib/aloha-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alac0m/Lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/alac0m/Lerna/issues"
+  },
+  "gitHead": "6cb93aac6f6575abcdf6d264a461bcb41c6ab976"
+}
